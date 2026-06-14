@@ -1,4 +1,4 @@
-Try to make the internet a better place, peace 🙏
+Try to make the internet a better place 🙏
 
 * 🚀 [My front page](https://frederic.zone)
 * 📷 [My few photographs](https://photo.frederic.zone)
