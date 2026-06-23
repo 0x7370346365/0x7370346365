@@ -2,7 +2,7 @@ Try to make internet a better place 🙏
 
 * 🚀 [My front page](https://frederic.zone)
 * 📷 [My few photographs](https://photo.frederic.zone)
-* ✅ [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) a **Mozilla Firefox** add-on
+* ✅ [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) *a Mozilla Firefox add-on*
 * 🕹 [My steam profile](https://steamcommunity.com/profiles/76561197987715119)
 * ✉ hello@frederic.zone
 
