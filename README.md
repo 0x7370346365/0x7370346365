@@ -6,4 +6,4 @@ Try to make internet a better place 🙏
 * 🕹 [My steam profile](https://steamcommunity.com/profiles/76561197987715119)
 * ✉ hello@frederic.zone
 
-*(whispering)* [Mozilla Firefox](https://github.com/0x7370346365/classic-tabs-firefox) is the best browser, but on mobile it's Chrome...
+*(whispering)* [Mozilla Firefox](https://github.com/0x7370346365/classic-tabs-firefox) is the best browser
